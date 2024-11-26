@@ -1,16 +1,9 @@
-# flutter_application_1
+# app_flutter_cep
 
-A new Flutter project.
+Projeto flutter realizado para avaliação da matéria Programação de Dispositivos Móveis da Fatec Indaiatuba.
 
-## Getting Started
+## Atividade: N2 - Projeto individual
 
-This project is a starting point for a Flutter application.
+Entregar um repositório no  Github com o projeto criado para a consulta de CEP. Adicione na barra superior da tela o nome do aluno e a data de entrega.
+O título deve ficar por exemplo: "Consulta de CEP - Nome do Aluno - 12/06/2024".
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
